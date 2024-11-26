@@ -10,14 +10,14 @@
 ![](https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![](https://badges.aleen42.com/src/vitejs.svg)
 
-![GitHub action badge](https://github.com/hotbrainy/chrome-extension-boilerplate-react-vite/actions/workflows/build-zip.yml/badge.svg)
-![GitHub action badge](https://github.com/hotbrainy/chrome-extension-boilerplate-react-vite/actions/workflows/lint.yml/badge.svg)
+![GitHub action badge](https://github.com/AlphaCoX/chrome-extension-boilerplate-react-vite/actions/workflows/build-zip.yml/badge.svg)
+![GitHub action badge](https://github.com/AlphaCoX/chrome-extension-boilerplate-react-vite/actions/workflows/lint.yml/badge.svg)
 
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/hotbrainy/chrome-extension-boilerplate-react-viteFactions&count_bg=%23#222222&title_bg=%23#454545&title=😀&edge_flat=true" alt="hits"/>
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/AlphaCoX/chrome-extension-boilerplate-react-viteFactions&count_bg=%23#222222&title_bg=%23#454545&title=😀&edge_flat=true" alt="hits"/>
 <a href="https://discord.gg/Nu5Rf8xr" target="_blank"><img src="https://discord.com/api/guilds/1263404974830915637/widget.png"/></a>
 
 > This boilerplate
-> has [Legacy version](https://github.com/hotbrainy/chrome-extension-boilerplate-react-vite/tree/legacy)
+> has [Legacy version](https://github.com/AlphaCoX/chrome-extension-boilerplate-react-vite/tree/legacy)
 
 </div>
 
