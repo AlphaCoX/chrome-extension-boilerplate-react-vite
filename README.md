@@ -174,7 +174,7 @@ Also, suggest new features or share any challenges you've faced while developing
 This Boilerplate is made possible thanks to all of its contributors.
 
 <a href="https://github.com/AlphaCoX/chrome-extension-boilerplate-react-vite/graphs/contributors">
-  <img width="500px" src="https://contrib.rocks/image?repo=hotbrainy/chrome-extension-boilerplate-react-vite" alt="All Contributors"/>
+  <img width="50px" src="https://contrib.rocks/image?repo=AlphaCoX/chrome-extension-boilerplate-react-vite" alt="All Contributors"/>
 </a>
 
 ---
