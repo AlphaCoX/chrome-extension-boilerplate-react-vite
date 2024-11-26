@@ -161,7 +161,7 @@ Also, suggest new features or share any challenges you've faced while developing
 
 ## Star History <a name="starhistory"></a>
 
-<a href="https://star-history.com/#hotbrainy/chrome-extension-boilerplate-react-vite&Date">
+<a href="https://star-history.com/#AlphaCoX/chrome-extension-boilerplate-react-vite&Date">
  <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=hotbrainy/chrome-extension-boilerplate-react-vite&type=Date&theme=dark" />
    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=hotbrainy/chrome-extension-boilerplate-react-vite&type=Date" />
@@ -173,7 +173,7 @@ Also, suggest new features or share any challenges you've faced while developing
 
 This Boilerplate is made possible thanks to all of its contributors.
 
-<a href="https://github.com/hotbrainy/chrome-extension-boilerplate-react-vite/graphs/contributors">
+<a href="https://github.com/AlphaCoX/chrome-extension-boilerplate-react-vite/graphs/contributors">
   <img width="500px" src="https://contrib.rocks/image?repo=hotbrainy/chrome-extension-boilerplate-react-vite" alt="All Contributors"/>
 </a>
 
