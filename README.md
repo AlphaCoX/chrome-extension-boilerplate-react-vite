@@ -180,4 +180,4 @@ This Boilerplate is made possible thanks to all of its contributors.
 ---
 
 ## Special Thanks To
- Made by [hotbrainy](https://hotbrainy.web.app/)
+ Made by [AlphaCoX](https://alphacox.web.app/)
